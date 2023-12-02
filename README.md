@@ -25,7 +25,7 @@ Time-based challenge.
 Victory and defeat screens.
 
 Building and Running
-Clone this repository> OpenGL3DTemplate.sln> OpenGL3DTemplate.cpp
+Clone this repository> OpenGL3DTemplate.sln>  source files>OpenGL3DTemplate.cpp
 
 
 OpenGL
