@@ -1,0 +1,2 @@
+C:\Users\Mariam ELERIAN\Desktop\graphics assignment 2 3dgame\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+C:\Users\Mariam ELERIAN\Desktop\graphics assignment 2 3dgame\AmusementPark3DGame\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
